@@ -1,0 +1,504 @@
+[33mcommit 32a7304acff1c7850b007f61a5c42cfa3682d8e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Chee <ck_white@outlook.com>
+Date:   Wed Jan 24 08:44:27 2024 -0500
+
+    events
+
+[33mcommit fd695bc89559da1f9a8af2b1cf84cc5505f68174[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Nov 20 09:59:42 2023 -0500
+
+    AUTO: update .canvas file
+
+[33mcommit 1ffa0b4421bdc7bce75d97e91828cb2cc61cf9e6[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Nov 17 12:43:47 2023 -0500
+
+    AUTO: replace github workflow
+
+[33mcommit c3cec35b2738cb26d72539456bfa3363e3b20345[m
+Merge: 3fc9ab5 cbe908f
+Author: Matt Eva <matteweva@gmail.com>
+Date:   Thu May 25 16:29:52 2023 -0700
+
+    Merge pull request #9 from Matt-Eva/update-tests
+    
+    Update tests
+
+[33mcommit cbe908f09f9ac2d9bfaf7e6f1123e69b406d24aa[m
+Author: Matt Eva <matthew.eva@flatironschool.com>
+Date:   Wed May 24 15:23:40 2023 -0700
+
+    adding spaces for legibility
+
+[33mcommit ac7805d39713bad1eb7c48bf495e93dc609871da[m
+Author: Matt Eva <matthew.eva@flatironschool.com>
+Date:   Wed May 24 15:21:37 2023 -0700
+
+    saving test modifications
+
+[33mcommit 3fc9ab56adae2ac8fdbfe7d1ad7d36168fef7aef[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Dec 27 13:41:21 2022 -0500
+
+    Add emphasis and reminder to submit
+
+[33mcommit 16928be5f30e4195f1d1911fbb626ebf023208b1[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Fri Dec 16 11:23:31 2022 -0800
+
+    update workflow
+
+[33mcommit 39c21aea1a3e55117800be07328f7420d9d60970[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Dec 16 13:25:41 2022 -0500
+
+    update canvas file
+
+[33mcommit b020a77f0e3fc9ad1dd91cb4dc9e23151a292b9d[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Dec 14 15:07:02 2022 -0500
+
+    remove old prep from .canvas file (#6)
+    
+    * remove old prep from .canvas file
+    
+    * remove old phase 1 bp from canvas file
+
+[33mcommit 1912d02af7dd42d5b254f14aba06209cd1df47b8[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Wed Dec 7 13:07:57 2022 -0800
+
+    add require to test file
+
+[33mcommit e378a5be3fa7d601471ce398cffe07baf1487609[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Nov 22 20:20:17 2022 -0500
+
+    Update .canvas file
+
+[33mcommit fb4ab0185f9b9a198f205cc97b46bc614fe62a23[m
+Merge: 595198a ed73c92
+Author: Ian Hollander <39830572+ihollander@users.noreply.github.com>
+Date:   Thu Dec 30 11:09:33 2021 -0500
+
+    Merge pull request #5 from learn-co-curriculum/fix-test-master
+    
+    Make test labels consistent
+
+[33mcommit ed73c924f6cc20be196a1b87c0b0c4ad5db84d9f[m
+Author: Ian Hollander <ianholla@gmail.com>
+Date:   Thu Dec 30 11:07:25 2021 -0500
+
+    Make test labels consistent
+
+[33mcommit 595198a01cb966fc9b23434f8a8b7a9fe8d69675[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Dec 17 09:57:24 2021 -0500
+
+    Shape up prework (#2)
+    
+    * update readme for new sequencing
+    
+    * update gh workflow to remove prework flag
+
+[33mcommit d4d71dffbb1f653a725f640c494482ec5eeec57d[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Mon Aug 23 13:31:37 2021 -0400
+
+    bash -> console
+
+[33mcommit edc92c69fb9885ead911c951e12b43aac4ca409e[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Jul 30 15:52:33 2021 -0400
+
+    AUTO: replace &mdash; with em-dash
+
+[33mcommit 60be694777c7fe40d12d14a613a2941973670fcb[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Jul 30 15:33:26 2021 -0400
+
+    AUTO: updated workflow to html version
+
+[33mcommit 5442e1ae6bb38dc8cbb320f1be434cdcba6a0279[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 15:55:28 2021 -0400
+
+    AUTO: removed incorrect workflow
+
+[33mcommit 086d96dd7b77077031590db306447717ebbc64e1[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 11:15:09 2021 -0400
+
+    AUTO: Added phase 1 canvas info to .canvas file
+
+[33mcommit 53a8ff5c50914f3d55bd5191f0f3edcf91214560[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 10:11:02 2021 -0400
+
+    AUTO: Added .canvas file and github workflow
+
+[33mcommit 55e9e8185ec80b67d1c2397dc018bbc2b51f88f1[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Mon Jun 7 10:16:30 2021 -0600
+
+    Removed solution code from index.js
+
+[33mcommit 524073188cf46370db8b12991ca04fdf7a885f40[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Jun 4 14:19:43 2021 -0400
+
+    AUTO: remove file-system from test files
+
+[33mcommit 02e3211d4d7549569beb1526b9b0d3dc799b455c[m
+Author: max b <maxwellbenton@gmail.com>
+Date:   Thu Apr 1 15:54:56 2021 -0400
+
+    AUTO: Fix typo
+
+[33mcommit 63fd84261a9c23888bbc33fa2220f8c5fc6da78f[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Sat Feb 13 16:35:40 2021 -0500
+
+    mocha downgrade
+
+[33mcommit 25d3c5086ce5c1980844d0dfa41c93e4e70bfa5b[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Feb 9 09:21:35 2021 -0500
+
+    align mocha version for prework
+
+[33mcommit b45401df80f4bf572867470f08e77d9b9eae13b0[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Feb 9 09:20:55 2021 -0500
+
+    Delete package-lock.json
+
+[33mcommit ac930736e3e6360d03d6d03f6ea942aea0412c1b[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Jan 21 08:40:28 2021 -0500
+
+    Add instructions to push code to Github
+
+[33mcommit c8dd03c5551cd7f50aa3b053b32aaf75d68181b3[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Jan 14 11:36:54 2021 -0500
+
+    added image; wording changes
+
+[33mcommit 16ea58f25604f96bac83e62c3d99b916ace30b02[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Jan 14 11:07:39 2021 -0500
+
+    rewrite for phase 0
+
+[33mcommit f5abc6a5a006fa0af561b666cfa37a99c6a58e1d[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jan 13 13:56:41 2021 -0500
+
+    error fixes
+
+[33mcommit 655cb55ac6695c2b0d0d78186b7ea5e9302f15a3[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jan 13 09:44:54 2021 -0500
+
+    Fix typo
+
+[33mcommit cf1dc4f868eff30bb2f96bb8dac8bcbe788398ec[m
+Merge: fb5a836 82e455f
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jan 13 09:42:37 2021 -0500
+
+    Merge pull request #12 from learn-co-curriculum/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit 82e455ff20c20b817a53b4c3cb347f7e67659933[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 12:45:57 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit fb5a8366a38cdb84cd524ab93faa7199ced76777[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Wed May 6 17:43:33 2020 -0400
+
+    --timeout 5000
+
+[33mcommit ed4a2c49a872cb4c7cda098f0c32df5c01d004c6[m
+Author: Ann Duong <39737217+thuyanduong-flatiron@users.noreply.github.com>
+Date:   Tue Apr 14 08:59:14 2020 -0400
+
+    Update README.md
+
+[33mcommit bb64fe71e399e0fe0d3405d29d40c5568704b6dc[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Mon Nov 4 13:17:00 2019 -0500
+
+    Advise students to test
+    
+    Fixes #11
+
+[33mcommit 875b8a42f975341816237cf3d3598cd493708180[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Mon Nov 4 13:16:04 2019 -0500
+
+    Update README.md
+
+[33mcommit 3f549f67c7236fa4630f01470b6aeb1240f5dfed[m
+Author: Alex Griffith <alexalexgriffith@gmail.com>
+Date:   Tue Oct 29 11:57:33 2019 -0400
+
+    Trigger Auto Redeploy
+
+[33mcommit 0ce888c2fa0e3d102d2b08328ac99c08cd7eedb4[m
+Author: Alex Griffith <alexalexgriffith@gmail.com>
+Date:   Tue Oct 29 11:50:30 2019 -0400
+
+    Trigger Auto Redeploy
+
+[33mcommit f56a006f047be30465c0e0f62086542ecde91032[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Oct 29 10:25:59 2019 -0400
+
+    Create .learn
+
+[33mcommit 28a6a0db4a005e40e9680b1d7ebe69c9ef181c4a[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Oct 29 10:25:42 2019 -0400
+
+    Delete .learn
+
+[33mcommit 0248afc821f4ceaa738a2e7d65eccfcb4698c5f6[m
+Merge: 7d35e93 b07448b
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Mon Oct 28 12:54:27 2019 -0400
+
+    Merge pull request #10 from learn-co-curriculum/dependabot/npm_and_yarn/lodash-4.17.15
+    
+    Bump lodash from 4.17.11 to 4.17.15
+
+[33mcommit b07448b5e598e1c2b24559a6356ff9fb35bd6614[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 28 15:54:53 2019 +0000
+
+    Bump lodash from 4.17.11 to 4.17.15
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 7d35e939546c017aefa7537085291b11c924ca3e[m
+Author: Ann Duong <39737217+thuyanduong-flatiron@users.noreply.github.com>
+Date:   Mon Oct 28 11:53:44 2019 -0400
+
+    Update README.md
+
+[33mcommit 8b16374b77f14e0b8bd303a36142475b4ae3a2b8[m
+Merge: 144941e 9066571
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Aug 27 12:29:23 2019 -0400
+
+    Merge pull request #6 from learn-co-curriculum/paulnicholsen27-patch-1
+    
+    Update README.md
+
+[33mcommit 9066571da356d0950e7f660d1c05036ed19e72d9[m
+Author: Paul Nicholsen <paulnicholsen27@gmail.com>
+Date:   Tue Aug 27 12:20:03 2019 -0400
+
+    Update README.md
+    
+    changed `var` to `let`
+
+[33mcommit 144941e2724e3326f595dab3625eb6de8ec76748[m
+Merge: b45fd2d cb6fb27
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Mon Aug 26 17:23:31 2019 -0400
+
+    Merge pull request #5 from learn-co-curriculum/paulnicholsen27-patch-1
+    
+    Update README.md
+
+[33mcommit cb6fb2772e1f50d738d04b79067579fd635b4b99[m
+Author: Paul Nicholsen <paulnicholsen27@gmail.com>
+Date:   Mon Aug 26 17:13:36 2019 -0400
+
+    Update README.md
+    
+    Removed link to product page of random game (it's a good game, but this feels off-putting)
+
+[33mcommit b45fd2d70fa31367d434b6e973e4fb0d953a0450[m
+Author: Kellye Greene <kellye.greene@flatironschool.com>
+Date:   Thu Aug 8 17:09:08 2019 -0400
+
+    Adds graphic
+
+[33mcommit 871c2ba3ecb57d9fd66b1dff138ae9aed8b4d8d5[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Tue Jun 25 12:43:19 2019 -0400
+
+    Update README.md
+
+[33mcommit 7b3c7c3961f376731bf3d721c105f465b188dfb7[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Wed May 29 15:11:22 2019 -0400
+
+    adds url to support es6 transpile
+
+[33mcommit 63990cd06c4abee6a01fee563bdd1864a6ddc74e[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Wed May 29 15:10:57 2019 -0400
+
+    updates lock file
+
+[33mcommit d6359332c4c23400023e45ba264fe9f697d76b5f[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Wed May 29 15:10:33 2019 -0400
+
+    updates dependencies
+
+[33mcommit 2cb2e91bc74d89ca04d40a539299ab11c46fc8e5[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Fri May 17 11:57:34 2019 -0400
+
+    add .learn
+
+[33mcommit 7ba84468271f519bcabdc8ab3d405ad96c02f145[m
+Author: github username <github email address>
+Date:   Mon Apr 1 17:49:01 2019 -0700
+
+    adding qoutes around 'ArrowLeft'
+
+[33mcommit 38e503e1556d9a9723509d97e3f3a1779832644d[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Wed Mar 13 19:40:42 2019 -0400
+
+    formats to 80pt
+
+[33mcommit ccb22d666aa5d5118d7663bb6af02e16bf55a312[m
+Merge: 856c0cd 95f2f97
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Tue Mar 12 15:12:31 2019 -0400
+
+    Merge pull request #3 from learn-co-curriculum/wip-remove-deprecated-which
+    
+    Wip remove deprecated which
+
+[33mcommit 856c0cd89e5438828f006a65fbb9144be5db8f95[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Tue Mar 12 12:18:06 2019 -0400
+
+    Add gitignore
+
+[33mcommit 95f2f977aa688423ad4ef3adf39e91f1ab410bde[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Tue Mar 12 12:15:11 2019 -0400
+
+    Remove image
+
+[33mcommit d4cb430dd1558aadc9d3dd1943c05db2e1428d48[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Tue Mar 12 12:06:58 2019 -0400
+
+    Remove e.which; pref e.key
+
+[33mcommit e6a241c1b7e45a942fee1b328f27c404bffaef05[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:54:38 2018 -0500
+
+    Adds conclusion
+
+[33mcommit 686c7d1c1aad5084cc4d8f67aed98dfc9569f290[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:44:39 2018 -0500
+
+    Fixes test (merge conflict)
+
+[33mcommit 79aaaf1b5a4079674401974a0be27ed8d5b3fd65[m
+Merge: 5b6c0d3 92d0286
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:43:03 2018 -0500
+
+    Merge branch 'master' of github.com:learn-co-curriculum/fewpjs-acting-on-events
+
+[33mcommit 5b6c0d3fde5c3c0c06032c958ddc6e8f8abafd2f[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:39:53 2018 -0500
+
+    Unifies solution and master branches
+
+[33mcommit 5a0038055d00de1b2d4cc9470f9e8ec615180c5c[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:38:40 2018 -0500
+
+    Adds CSS
+
+[33mcommit 9a8bc0dc9e158254721bc85ae27e1a1c41122a2f[m
+Merge: 997d951 a3de21f
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:38:16 2018 -0500
+
+    Adds working solution
+
+[33mcommit 997d95101f3340cf53d89dd84c84dc5f59797f61[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:36:42 2018 -0500
+
+    Adds working solution
+
+[33mcommit 3919d8d4c4e54c3abf9977301e5373427794f1e2[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Fri Nov 16 16:36:23 2018 -0500
+
+    Gets actual tests working
+
+[33mcommit 92d0286be256f3a42ebe35eaeddc2662a67c2211[m
+Author: Kellye Greene <kellye.greene@flatironschool.com>
+Date:   Thu Nov 15 13:53:57 2018 -0500
+
+    Adds starting tests code
+
+[33mcommit a3de21f54c5d3ab3bd411c09021b84edba84ddb1[m
+Author: Kellye Greene <kellye.greene@flatironschool.com>
+Date:   Thu Nov 15 13:53:32 2018 -0500
+
+    Adds starting tests code
+
+[33mcommit 540f20d243fbe669b85c686305c2b401b7ae389b[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Tue Nov 13 17:27:55 2018 -0500
+
+    Adds [non working] tests
+
+[33mcommit c903e115b3af25b72bbcc93616287d64533a3eb3[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Tue Nov 13 17:27:44 2018 -0500
+
+    Adds JS
+
+[33mcommit 17ddcde91e8d72970af14236b894838e367bfdad[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Tue Nov 13 17:26:45 2018 -0500
+
+    Adds index.html
+
+[33mcommit d95362b56bf0b035dcaedf56380f1c89ce5ee820[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Tue Nov 13 16:49:53 2018 -0500
+
+    Creates README
+
+[33mcommit e28e699d4992c1fb06854b8afd18a2ee69a2ba4a[m
+Author: drakeltheryuujin <kellye.greene@flatironschool.com>
+Date:   Mon Nov 5 16:19:36 2018 -0500
+
+    automated initial commit
